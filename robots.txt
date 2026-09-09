@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jnsaraiva.github.io/notes-yqim8q/sitemap.xml
